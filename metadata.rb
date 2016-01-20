@@ -1,3 +1,4 @@
+name		 "unzip"
 maintainer       "Protec Innovations"
 maintainer_email "dev@protecinnovations.co.uk"
 license          "All rights reserved"
